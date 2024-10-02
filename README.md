@@ -1,3 +1,3 @@
-never give up
-never settle down 
-for small
+line 1
+line 2
+line 3
