@@ -1,0 +1,6 @@
+welcome to devops course
+aws
+devops
+github
+maven
+
