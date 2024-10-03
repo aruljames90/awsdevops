@@ -1,7 +1,6 @@
 welcome to devops course
-
-line 1 
-line 2
-line 3
-line4
+aws
+devops
+github
+maven
 
